@@ -1,0 +1,36 @@
+{
+  "workbench.colorTheme": "Hop Light",
+  "editor.fontSize": 16,
+  "window.zoomLevel": 2,
+  "window.title": "${activeEditorShort}${separator}${rootName}${separator}${profileName}",
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.minimap.enabled": false,
+  "workbench.sideBar.location": "right",
+  "explorer.openEditors.visible": 1,
+  "workbench.settings.editor": "json",
+  "breadcrumbs.enabled": false,
+  "editor.cursorBlinking": "expand",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "workbench.layoutControl.enabled": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.validate.enable": true,
+  "javascript.validate.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "diffEditor.ignoreTrimWhitespace": false
+}
